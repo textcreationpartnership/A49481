@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shepherd, or, The pastoral charge and obedience due to it instituted by God as a necessary means to preserve the sheep from straying.</title>
+            <author>Laney, Benjamin, 1591-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49481</idno>
+            <idno type="STC">Wing L351</idno>
+            <idno type="STC">ESTC R7360</idno>
+            <idno type="EEBO-CITATION">12920466</idno>
+            <idno type="OCLC">ocm 12920466</idno>
+            <idno type="VID">95371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 986:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shepherd, or, The pastoral charge and obedience due to it instituted by God as a necessary means to preserve the sheep from straying.</title>
+                  <author>Laney, Benjamin, 1591-1675.</author>
+               </titleStmt>
+               <extent>[2], 37 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Garthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Attributed to Benjamin Laney. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bishops --  England --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95371:1" rendition="simple:additions"/>
+            <p>The Shepherd,</p>
+            <p>Or The PASTORAL CHARGE And OBEDIENCE due to it; <hi>Inſtituted</hi> By God as a neceſſary means to preſerve the <hi>Sheep</hi> from Stray<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Timothy Garthwait,</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95371:2"/>
+            <pb facs="tcp:95371:2"/>
+            <head>A SERMON Preached before His Majeſty at <hi>Whitehall, March</hi> 9. 1661.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 PET. 2.25.</hi>
+                  </bibl>
+                  <p>For ye were as ſheep going aſtray, but are now returned unto the Shepherd and Biſhop of your Souls.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE condition of thoſe in the Text, both for what they had been once, and for what they now were, that is, for their <hi>ſtray<g ref="char:EOLhyphen"/>ing</hi> and <hi>returning</hi> again, looks ſo like our caſe of late, (who, if ever any, had err'd and ſtray'd from all the ways of duty both to God and man, but are now happily returned to the Shepherds and Biſhops of our Souls) you may perhaps imagine this Text to be cho<g ref="char:EOLhyphen"/>ſen of purpoſe to purſue thoſe two <hi>Blown Ar<g ref="char:EOLhyphen"/>guments.</hi>
+            </p>
+            <pb n="2" facs="tcp:95371:3"/>
+            <p>And therefore before I proceed farther, it will be neceſſary to deliver you from thoſe thoughts, and perhaps that fear. For though the miſchiefs in the one, and Bleſſings in the other be ſuch, as deſerve never to be forgotten; yet poſſibly may not endure a perpetual importu<g ref="char:EOLhyphen"/>nate Remembrancer.</p>
+            <p>And the truth is, the very words and phraſe of the text, which only at the firſt bluſh carries us upon thoſe thoughts, will leave us, if we look a little nearer to them. For the Straying here will prove to be of another kind, and the Return will be found to be to ano<g ref="char:EOLhyphen"/>ther Biſhop. The ſtraying here was of ſuch as had err'd like <hi>Sheep,</hi> whereas ours had little or nothing of the Sheep in it, ſave the Sheeps clothing; for dreſſ'd up they were with pre<g ref="char:EOLhyphen"/>tenſes as ſoft as wool, <hi>Gods glory, Purity</hi> of <hi>wor<g ref="char:EOLhyphen"/>ſhip, Chriſtian liberty,</hi> nothing worſe then theſe, and ſo indeed they err'd like Sheep, as if they had been ſuch; but the truth is, it was liker the ranging of Wolves, tearing and devour<g ref="char:EOLhyphen"/>ing, then the ſtraying of weak and ſilly Sheep. And for the returning likewiſe here, though it was to a Biſhop, yet I dare not be ſo bold with him that bears that name in the text, directly to apply it to our Biſhops, nor ad<g ref="char:EOLhyphen"/>vance our return to this.</p>
+            <pb n="3" facs="tcp:95371:3"/>
+            <p>The Biſhop here was no doubt our bleſſed <hi>Lord</hi> and Saviour, whom God himſelf had conſecrated and ordained to that office; but our Biſhops are not otherwiſe concerned here then as they can make their title from and under him; but if that may be done hereafter, I truſt you will not be againſt it. In the mean time, if there were no more in it, me thinks this ſhould be enough to recon<g ref="char:EOLhyphen"/>cile the <hi>Presbyterians</hi> to the name of a <hi>Biſhop,</hi> which our Saviour himſelf hath vouchſafed to take upon him. But having laid aſide that argument, which the words at firſt ſight ſeem'd to offer, I beſpeak your attention to one of a more common intereſt, which con<g ref="char:EOLhyphen"/>cerns all that would be Chriſtians, whoſe character it is. Who from the ways of ſin and error, are return'd to the faith and obedi<g ref="char:EOLhyphen"/>ence of our Lord Jeſus Chriſt, who to reduce us from thoſe ways hath taken upon him to be our Shepherd and Biſhop.</p>
+            <p>The main point is, <hi>That God of his mercy complying with the neceſsities and infirmities of nature, hath erected an</hi> Office <hi>of truſt and confidence in his Church, under the quality of a Shepherd and Biſhop, to direct and guide us, who otherwiſe would erre and ſtray like ſheep, and ſo be loſt for ever.</hi>
+            </p>
+            <pb n="4" facs="tcp:95371:4"/>
+            <p>THe particulars incident to this are, <hi>firſt.</hi> The <hi>neceſsity</hi> of it, impli'd in our <hi>natural condition,</hi> who like Sheep are of themſelves apt to erre and go aſtray. 2. The <hi>accommodation</hi> we have for it. For what ſhould they do which are out of the way, but return? and to whom ſhould Sheep return but to a Shep<g ref="char:EOLhyphen"/>herd? and loſt Sheep, but to him that came <hi>to ſeek and ſave that which was loſt?</hi> and where ſhould they find ſo ſafe and ſure a retreat, as in him who purchas'd them with his own blood? All theſe are accompliſhed in our bleſſed Lord Jeſus Chriſt, whom we ſhall conſider, firſt in his <hi>office</hi> of Shepherd or Biſhop; then in his Flock or <hi>Dioceſs;</hi> the Souls of men. <hi>We are returned,</hi> &amp;c.</p>
+            <p>THe firſt thing we meet with in the text, is our <hi>natural condition.</hi> That we were as Sheep that had gone aſtray. And the con<g ref="char:EOLhyphen"/>feſſion of this is the firſt thing we meet with in our Liturgy. <hi>We have erred and ſtray'd like loſt Sheep.</hi> And though it were fit and ne<g ref="char:EOLhyphen"/>ceſſary it ſhould be there, for, ſure I am, we never err'd worſe then ſince we laid that by; yet here we look upon it in another relati<g ref="char:EOLhyphen"/>on and uſe; it is the firſt ſtone to be laid in
+<pb n="5" facs="tcp:95371:4"/>this building, in the erection of the office of a Shepherd and Biſhop. The infirmities of the Sheep are the ground of the neceſſity of a Shepherd.</p>
+            <p>But now that while we are ſpeaking of our errors, we do not commit one, we muſt know, firſt what <hi>kind</hi> of erring this is, and then how we fell into the fatal neceſſity of it. What it is, the Biſhop that muſt lead us out of it, will tell us; for he is the Biſhop of our ſouls: and therefore our Straying here muſt be that of the Soul. For though our natu<g ref="char:EOLhyphen"/>ral infirmities do expoſe us to error in many things elſe, yea almoſt in all other things, even thoſe that are within the reach of ſenſe and reaſon: there is not any thing in <hi>Nature,</hi> in <hi>Art,</hi> in <hi>Philoſophy,</hi> though commonly re<g ref="char:EOLhyphen"/>ceived for truth, which of late time is not charged with error, and it may be ſome<g ref="char:EOLhyphen"/>times not without cauſe; yet without any great regard here, if the Soul be not con<g ref="char:EOLhyphen"/>cern'd.</p>
+            <p>Now if we be ſo liable to error in the things of this life, where both the end and the way to them are within the compaſs of the eye, in which we erre, as it were, in our own Countrey, where we are bred and born; we
+<pb n="6" facs="tcp:95371:5"/>muſt certainly loſe our way, where we are ſtrangers, being Citizens of another Countrey, as thoſe bleſſed Saints, who beſt knew the ways of the ſoul, confeſſed, that they were <hi>ſtrangers and pilgrims</hi> here. <hi>Heb.</hi> 11.14. And <hi>they which ſay ſo, ſhew plainly that they ſeek a Countrey,</hi> and <hi>that a better, that is, a heavenly,</hi> where <hi>God hath prepared for them a City.</hi> They muſt needs be diſappointed that ſeek for Heaven upon earth, where there is nothing fitted and proportion'd to the Soul, either for the <hi>nature</hi> or the <hi>deſires</hi> of it. The Soul is immortal, and cannot be provided for, where all things are liable to change and mortality; for when it ſhall ſurvive them, it will be at a loſs, till it find a Countrey like it ſelf, that is everlaſting and immortal.</p>
+            <p>And as the <hi>nature,</hi> ſo the <hi>deſires</hi> of the Soul are unſatisfied here; the eye is not ſatisfied with ſeeing, nor the ear with hear<g ref="char:EOLhyphen"/>ing, nor the underſtanding with knowledg, nor the heart with the beſt and choiceſt de<g ref="char:EOLhyphen"/>lights of it. We are ſoon wearied and tir'd with what we have, and are as thirſty of that we have not. In our plenty as craving, as others in their greateſt wants. The goods of
+<pb n="7" facs="tcp:95371:5"/>this world are Hydropick all, <hi>quo plus bibuntur plus ſitiuntur.</hi> They that have the greateſt ſhare and portion in them, of Wealth, of Honour, of Power, do not ſleep the better, nor are their bodies leſs comber'd with diſea<g ref="char:EOLhyphen"/>ſes, nor their minds freer from vexations and troubles. And therefore as the Saints I nam'd before, did by what they willingly ſuffer'd here, ſhew plainly that they ſought another Countrey; ſo by this is ſhewn as plainly, that they had cauſe to do ſo.</p>
+            <p>Now here lies the fatal neceſſity of erring, they ſeek a Countrey and City that is inviſi<g ref="char:EOLhyphen"/>ble and unknown to nature, either what the <hi>ſtate</hi> of that Countrey is, or by what <hi>laws</hi> the Citizens thereof are to be govern'd. And when we walk in the dark it is not ſtrange we ſhould loſe our way.</p>
+            <p>A chief part of that way lies, <hi>firſt</hi> in the knowledg and <hi>worſhip</hi> of that God, who had prepar'd for them a City, by what Sa<g ref="char:EOLhyphen"/>crifices, Rites and Ceremonies he will be ſerv'd. How much of that may be had by <hi>nature,</hi> we learn by thoſe, who were moſt likely to know, but did not, who were the maſters of knowledge to moſt other Nations, for of ſuch S. <hi>Paaul</hi> ſpeaks <hi>Rom.</hi> 1.<note place="margin">Rom. 1.</note> Who
+<pb n="8" facs="tcp:95371:6"/>when they profeſſ'd themſelves to be wiſe, as well they might in many other things, yet in this of Gods worſhip, they became fools. For they <hi>turned the glory of the uncorruptible God,</hi>
+               <note place="margin">Rom. 1.23</note> 
+               <hi>into the ſimilitude and image of corruptible Man, and of birds, and fourfooted beaſts, and of creeping things.</hi>
+            </p>
+            <p>The right way of worſhipping God (ſince reveal'd to us to be by Jeſus Chriſt) was not only unknown to them, but to thoſe to whom God had more peculiarly imparted himſelf.<note place="margin">Epheſ. 3.5.</note> 
+               <hi>The myſterie of Chriſt Epheſ.</hi> 3.5. <hi>in other ages was not made known to the Sons of men, untill he was reveal'd unto his holy Apoſtles and Pro<g ref="char:EOLhyphen"/>phets by his Spirit.</hi> Yea it was unknown to the very Angels, who when it was firſt reveal'd, in a kind of admiration and curioſity <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>deſir'd to look,</hi>
+               <note place="margin">1 Pet. 1.12.</note> the word ſignifies <hi>earneſtly to pry into.</hi> And that which the An<g ref="char:EOLhyphen"/>gels of Heaven did not know, certainly the ſons of men could not.</p>
+            <p>The <hi>other</hi> part of the way to that heavenly Countrey in which we may naturally ſeem to have ſome skill, the way of vertue, that is, in the ſtile of Scripture,<note place="margin">Tit. 2.12.</note> to <hi>live godly, right<g ref="char:EOLhyphen"/>eouſly and ſoberly in this preſent world,</hi> appeared to the very Heathen to be the only way to
+<pb n="9" facs="tcp:95371:6"/>happineſs. Yet theſe natural impreſſions were ſo dim and imperfect, both through Original corruption, and the over-ruling power of paſſion and luſt, that of thoſe things they knew, they held the truth in unright<g ref="char:EOLhyphen"/>eouſneſs, even to the very perverting of the courſe of nature as the Apoſtle obſerves of them in the ſame place, <hi>Rom.</hi> 1.<note place="margin">Rom. 1.</note>
+            </p>
+            <p>Beſides, many <hi>vertues</hi> they knew not, which are the glory of Chriſtianity, as <hi>Humi<g ref="char:EOLhyphen"/>lity, Denying</hi> our ſelves, Taking up the <hi>Croſs, Forgiving</hi> and Loving our enemies, in their eyes looked more like follies then vertues, and ſo they would have done in ours too, if we had had no better guide then our ſelves to lead us.</p>
+            <p>By this we may ſee the neceſſity we have of Leading; let us now ſee the <hi>accommodation</hi> we have for it in the Leader. Our bleſſed Lord Jeſus Chriſt, a perſon every way fitted for the purpoſe, both for his skill, and good will; He knew beſt the Heavenly Countrey, whither we are going, and the way to it; for he came from thence, from the boſom of his Father. And for his good will to his own, we cannot doubt they are the Sheep which he had purchaſed with his blood, and by
+<pb n="10" facs="tcp:95371:7"/>that had a juſt title to govern in what Lordly way of Secular domination he pleaſed; yet choſe that eaſie gentle way as Shepherds uſe to lead their Sheep. And ſuch he profeſſed himſelf to be.<note place="margin">John 10.11.</note> 
+               <hi>I am the good Shepherd: the good Shepherd giveth his life for the Sheep,</hi> and He made it good in every point while he was upon earth; He went about doing good, preaching the Goſpel, healing the diſeaſes of the Sheep, forgiving their ſins, till he came to the laſt and hardeſt work of a good Shep<g ref="char:EOLhyphen"/>herd, He laid down his life for his Sheep.</p>
+            <p>Yet his Paſtoral care died not with him. As he was a Prieſt for ever; ſo he was a Shep<g ref="char:EOLhyphen"/>herd for ever; for after he had in perſon aſcen<g ref="char:EOLhyphen"/>ded into Heaven, he took care for his flock that he left behind Him, that they might not be as Sheep without a Shepherd. And from thence <hi>gave gifts unto men, ſome Apoſtles, ſome Prophets,</hi>
+               <note place="margin">Epheſ. 4.</note> 
+               <hi>ſome Paſtors and Teachers, &amp;c.</hi> to continue ſtill his Paſtoral charge upon earth: and they were the ſame perſons which before he went he had deſigned for it, and for the ſame reaſon that the Father ſent Him,<note place="margin">Mar. 15.24</note> 
+               <hi>to ſeek and ſave the Sheep that were loſt;</hi> as appears in the preamble to the commiſſion given to the Apoſtles.<note place="margin">Mat. 9.36.</note> 
+               <hi>Mat.</hi> 9.36. <hi>When he ſaw the multi<g ref="char:EOLhyphen"/>tude
+<pb n="11" facs="tcp:95371:7"/>he had compaſsion on them, becauſe they were diſperſed and ſcattered abroad like Sheep having no Shepherd.</hi> This commiſſion indeed was only to the loſt Sheep of the houſe of <hi>Iſrael</hi> while he was alive; but when he roſe again from the dead, He renewed and enlarged it to the loſt Sheep of all the world.<note place="margin">Mat. 28.19.</note> 
+               <hi>Go and teach all Nations.</hi>
+            </p>
+            <p>And as he aſſigned the perſons, <hi>ſicut miſit me Pater.</hi>
+               <note place="margin">Joh. 20.21.</note> 
+               <hi>As the Father ſent me ſo ſend I you.</hi> He Inſtituted likewiſe the office it ſelf in all the points and parts of it.</p>
+            <list>
+               <item>1. <hi>Go and teach all Nations, baptizing,</hi>
+                  <note place="margin">Mat. 28.19.</note> 
+                  <hi>&amp;c.</hi> there he gave the power of preaching and baptizing.</item>
+               <item>2. He commands a perpetual memorial of his death, in the Sacrament of his bleſſed body and blood. <hi>Hoc facite, &amp;c.</hi>
+                  <note place="margin">1 Cor. 11.24.</note>
+               </item>
+               <item>3. He gave them at the ſame time the power of the Keyes,<note place="margin">Joh. 20.23.</note> 
+                  <hi>Whoſe ſins ye remit they are remitted, &amp;c.</hi>
+               </item>
+               <item>4. And before that in caſe of contumacy he gave power to excommunicate offenders, <hi>If he will not hear the Church,</hi>
+                  <note place="margin">Mat. 18.17.</note> 
+                  <hi>let him be as a hea<g ref="char:EOLhyphen"/>then and publican.</hi>
+               </item>
+               <item>5. He ordered them how and what to pray. <hi>When ye pray ſay, &amp;c.</hi>
+                  <note place="margin">Mat. 6.9.</note>
+               </item>
+               <pb n="12" facs="tcp:95371:8"/>
+               <item>6. He gave them power and jurisdiction over falſe Shepherds, to expel them from the flock.<note place="margin">Mat. 7.19.</note> 
+                  <hi>Beware of falſe Prophets which come to you in Sheeps cloathing, but inwardly are ravening VVolves.</hi> Theſe and the like are the parts of the Shepherds office.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> And to all theſe in the <hi>third</hi> place he gave beſides a divine vertue and efficacy to work ſupernatural effects upon the Soul. Not only the inſtitution, but the power alſo is from him. And therefore by S. <hi>Paul</hi> he is cal<g ref="char:EOLhyphen"/>led the <hi>great Shepherd,</hi>
+               <note place="margin">1 Pet. 5.4.</note> and by S. <hi>Peter</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the chief Shepherd.</hi> The cure of Souls was originally in him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> miniſterially and derivatively in the Shepherds under him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> And <hi>fourthly,</hi> that their leading might be taken and acknowledged for his, He ap<g ref="char:EOLhyphen"/>pointed that all ſhould be done in His name. That they ſhould Preach in his name, Pray in His name, Aſſemble together in His name, Caſt out Devils in His name. And accord<g ref="char:EOLhyphen"/>ingly S. <hi>Paul,</hi> when he judg'd the inceſtuous <hi>Corinthian</hi> to be delivered unto Satan, 1 <hi>Cor.</hi> 5.4. he did it <hi>in the name and power of Chriſt.</hi> And when 2 <hi>Cor.</hi> 5.10. he abſolved him, it was in <hi>perſona Chriſti.</hi> All was His.</p>
+            <pb n="13" facs="tcp:95371:8"/>
+            <p>To the Apoſtles it may be all this was al<g ref="char:EOLhyphen"/>lowed, but not therefore to all other Shep<g ref="char:EOLhyphen"/>herds after. Yes, to all that can rightly claim from Him.<note place="margin">Mat. 28.20.</note> His promiſe was to be with them to the end of the world, that is, longer then any Apoſtle could live. I am ſure the neceſſities of the Sheep will be the ſame for ever; for Sheep we ſhall be ſtill whereſoever we are. When God diſtributed to the Church the ſeveral parts of the Paſtoral charge, <hi>ſome Apoſtles, ſome Prophets,</hi>
+               <note place="margin">Epheſ. 4.</note> 
+               <hi>ſome Paſtors and Teachers,</hi> he adds, that it was, <hi>ad conſum<g ref="char:EOLhyphen"/>mationem Sanctorum, &amp; adificationem corporis Chriſti;</hi> that is, ſo long as there ſhould be Saints to be perfected, and ſo long as Chriſt ſhould have a Church, a body upon earth, and that is ſo long as there ſhould be Sheep Chriſt had provided there ſhould be Shep<g ref="char:EOLhyphen"/>herds. And theſe he hath taken to that near<g ref="char:EOLhyphen"/>neſs and conjunction, that the obedience or contempt done to them, he takes it as done to himſelf. <hi>Qui vos audit me audit, &amp;c.</hi>
+            </p>
+            <p>The benefits and advantages we have by this are many; firſt, it is an <hi>honour</hi> and incou<g ref="char:EOLhyphen"/>ragement to the Shepherds, that the work they do is Chriſts, who will bear them out in what they do according to their duty,
+<pb n="14" facs="tcp:95371:9"/>and reward them for what they ſuffer for it.</p>
+            <p n="2">2. It removes all <hi>diſcouragement</hi> from the Sheep, that make a ſtand at the infirmities and frailties of their Shepherds, that they look through and beyond all them at the po<g ref="char:EOLhyphen"/>wer of Chriſt under whom they ſerve.</p>
+            <p n="3">3. Another great benefit it is, that in all doubtful and <hi>difficult</hi> caſes we may ſecure our ſelves upon the conduct of Chriſt in his Mini<g ref="char:EOLhyphen"/>ſters. For if poſſibly men ſhould be miſled by them into error, when in ſimplicity of heart, not knowing any thing to the contrary, they ſhall ſubmit to them; I dare promiſe them at leaſt a favourable hearing from him that commanded the obedience.</p>
+            <p>But I dare not, nor can ſay that for all Shepherds; for every congregational herd hath their Shepherd too; but ſuch as have no part in that power, which is derived from Chriſt and his miſſion; that gave it immedi<g ref="char:EOLhyphen"/>ately to the Apoſtles only.<note place="margin">Joh. 20.</note> 
+               <hi>Sicut miſit me Pater, ſic, &amp;c.</hi> And all others that have it muſt receive it from them, or from ſuch as derive it from them by ſucceſſion. It is but reaſon that Chriſt ſhould have the choice of his own Miniſters. The Sheep that belong to thoſe other Shepherds, can plead nothing
+<pb n="15" facs="tcp:95371:9"/>for their obedience to them.<note place="margin">Heb. 13.17.</note> S. <hi>PAULS obedite praepoſitis,</hi> belongs not to them, they obey not thoſe that are ſet over them, but either thoſe that ſet themſelves over the flock, or the flock themſelves ſet them, and that not of neceſſity, which ſome vainly plead for them; but as neceſſary, profeſſing there is no lawful calling for a Miniſter, <hi>quem non miſit populus,</hi> where the Shepherd is not choſen by the Sheep. If theſe fall into an error by the miſguidance of their Shepherds, they are in a ſad and worſe condition, which admits no plea of excuſe or extenuation from the Shep<g ref="char:EOLhyphen"/>herd. They muſt bear their own faults, and the miſguiding of the Shepherds, which they make their own by chooſing them. In a word, the favour that Chriſt doth is to his own, not the peoples Shepherds.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> THe next thing that falls into our conſi<g ref="char:EOLhyphen"/>deration is our <hi>Duty.</hi> To return to Chriſt the Shepherd and Biſhop of our Souls. And that is to ſubmit our ſelves to be led and guided by him. To turn to Chriſt is in effect to turn Chriſtian. We are no leſs concerned here. And that muſt be in two reſpects: in his <hi>office</hi> of Shepherd and Biſhop, and
+<pb n="16" facs="tcp:95371:10"/>in the <hi>execution</hi> of it by Shepherds and Biſhops.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> For firſt, we can not be ſaid to return to him as a Shepherd, if we refuſe him in any part of his office. <hi>The good Sheep</hi> ſaith our Saviour <hi>John</hi> 10.27. <hi>hear the voice of the Shep<g ref="char:EOLhyphen"/>herd and they follow him.</hi>
+               <note place="margin">Joh. 10.27.</note> If they turn their ears only to him, and hear him, and not follow him, they turn ſhort, for follow him they muſt through all the parts of his office. 'Tis ſo with us, who for the moſt part like nothing in the Shepherd but his pipe, and a pleaſant tune. His rod and his ſtaffe we can ſpare. The Prophet <hi>Ezekiel</hi> deſcribes us right, <hi>chap.</hi> 33. an old humour it ſeems it was.<note place="margin">Ezek. 33.31.</note> 
+               <hi>They come unto thee, And ſit before thee as my people, to hear my words, v.</hi> 31. juſt as we do here come and ſit us down as the Lords people to hear his word. But what follows in the next verſe?<note place="margin">Verſe 32.</note> 
+               <hi>And loe thou art unto them as a very lovely ſong of one that hath a pleaſant voice, and can play well on an Inſtru<g ref="char:EOLhyphen"/>ment; for they hear thy words, but do them not.</hi>
+            </p>
+            <p>And what will come of this at the laſt, our Saviour tells us in the Parable, where ſome had the boldneſs to plead for their entrance, that they had <hi>eat and drunk in his preſence,</hi>
+               <note place="margin">Luk. 13.26.</note> and had <hi>heard him in their ſtreets. Citizens</hi> it ſeems they were by the <hi>ſtreets,</hi> and by their <hi>devotions,</hi>
+               <pb n="17" facs="tcp:95371:10"/>a <hi>Sermon and a Dinner,</hi> they eat with him, and they heard him. But what came of it? by hearing him 'tis like they knew him well; for all that, he tells them plainly, He knew not them. If the Sheep wanted no<g ref="char:EOLhyphen"/>thing but knowledg, I ſhould pardon them if they deſired nothing of the Shepherd but a Sermon. But this is not that which I prin<g ref="char:EOLhyphen"/>cipally intended here.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> But <hi>ſecondly,</hi> That our turning to Chriſt be in the full execution of his office, as in per<g ref="char:EOLhyphen"/>ſon, ſo by commiſſion. Princes, as well they may, think themſelves contemned in their Embaſſadors and Miniſters. And ſo doth our Saviour for his Shepherds, who are his Miniſters and Embaſſadors too. <hi>Qui vos ſper<g ref="char:EOLhyphen"/>nit me ſpernit.</hi>
+            </p>
+            <p>I ſhall not incloſe this power or favour to Biſhops only, becauſe I find that name in the text; but lay it in common to all ſuch to whom Chriſt hath committed under him the govern<g ref="char:EOLhyphen"/>ment of the Church and the cure of Souls; ſo as <hi>Presbyterians</hi> may have a ſhare here, when they can prove their Ordination and Miſſion.</p>
+            <p>This part of our duty to obey Chriſt in his Miniſters is with many of very hard digeſtion, who not regarding the <hi>neceſsity</hi> there is of it,
+<pb n="18" facs="tcp:95371:11"/>nor the <hi>benefit</hi> we have by it, nor the <hi>authority</hi> and commiſſion we have for it, nor the <hi>gentle</hi> conduct we have in it, lay it aſide as a thing of no uſe, and that God hath provided other means to lead us many and more certain then any Shepherds can be. We have firſt our own <hi>Reaſon</hi> to lead us. 2. We have <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> a ſurer guide then that. 3. We have the <hi>Spirit</hi> beſides,<note place="margin">Joh. 16.13</note> and that <hi>will lead us into all truth.</hi> Laſtly, we have our own <hi>Conſciences,</hi> which in the commiſſion of Leading is of the <hi>Quorum,</hi> nothing can be done without it.</p>
+            <p>We cannot deny but that all theſe have a part and ſhare in the guiding of our ſouls. But as no one of them doth exclude or bar the other; ſo nor do all of them the Shep<g ref="char:EOLhyphen"/>herds. For allowing to every of theſe that which is peculiar to them, there will be ſtill found ſomething to remain, which is proper for the Shepherds to do.</p>
+            <p>I am now, I confeſs, in a diſcourſe not ſo ſmooth and eaſie as beſt befits popular Ser<g ref="char:EOLhyphen"/>mons; yet becauſe many whom it concerns to weaken the hands and power of Church-governors, do with their importunate cla<g ref="char:EOLhyphen"/>mours fill the Pulpit, you will be pleaſed to allow of a ſhort Anſwer from thence too.</p>
+            <pb n="19" facs="tcp:95371:11"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> AND <hi>firſt</hi> for REASON; It is not to be denied, that it ought to be admit<g ref="char:EOLhyphen"/>ted even in matters of Religion, where it hath leaſt to do; for Religion is the object and im<g ref="char:EOLhyphen"/>ployment of Faith, and not of <hi>Reaſoning,</hi> and yet naturally no man will believe any thing unleſs he ſees Reaſon for it. But how? not a Reaſon of the thing that he believes; for that works <hi>Knowledge,</hi> not <hi>Faith;</hi> but yet a rea<g ref="char:EOLhyphen"/>ſon of believing it, for the credit of the <hi>Author</hi> that relates it; for nothing can be more un<g ref="char:EOLhyphen"/>reaſonable, then not to believe God that can<g ref="char:EOLhyphen"/>not ly. But to admit reaſon in matters of Faith for any other uſe then that, is to ſet up a Religion without Faith, which would be as ſtrange a thing as to have a Religion with no<g ref="char:EOLhyphen"/>thing elſe.</p>
+            <p>There are in Religion ſome things to be known as well as believed, and to theſe Rea<g ref="char:EOLhyphen"/>ſon and Diſcourſe is proper; for though the Articles of Faith, and whatſoever ſhall appear to be contained in Scripture are without all doubt and reaſoning to be received, becauſe God hath revealed them; yet that <hi>this</hi> or that <hi>Article</hi> or Propoſition is contained in Scripture, is a thing to be known, and lyes within the
+<pb n="20" facs="tcp:95371:12"/>compaſs of ſenſe, we may ſee whether it be there or no, that is, for the words. And for the meaning of thoſe words we muſt un<g ref="char:EOLhyphen"/>derſtand the language in which they are writ<g ref="char:EOLhyphen"/>ten, the proper import and idiom of the phraſe, the force and conſequence of the diſ<g ref="char:EOLhyphen"/>courſe, the coherence and conſent it hath with other points better known. We muſt be<g ref="char:EOLhyphen"/>ſides diſcover the fallacies and inconſequences of thoſe that would obtrude a different ſenſe from that we receive. All theſe difficulties, though in matter of Religion, are within the conduct of Reaſon; but it is Reaſon ſo <hi>exal<g ref="char:EOLhyphen"/>ted</hi> with skill of Arts and Languages, with Prudence and Diligence, that we ſhall be forced to find work for the Shepherds too. The greateſt part of Chriſts flock, I am ſure, muſt periſh if they may not truſt others in thoſe things, to which their natural inabilities or courſe of life hath made them incapable. And for the beſt of the flock, whom both Nature and Art hath fitted to maſter the greateſt difficulties of themſelves; if they ſhall ſeriouſly conſider how much and how oft Prejudice, Education, Cuſtom, Paſſion and Intereſt doth corrupt our Reaſon, we would in prudence ſometimes ſuſpect our own, and
+<pb n="21" facs="tcp:95371:12"/>ſeek better ſecurity from the <hi>Church;</hi> where though we ſhall not infallibly find the truth, we may alwayes ſafely preſume it. This will ſerve to reconcile our obedience with Reaſon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> THE <hi>next</hi> pretender againſt the Shep<g ref="char:EOLhyphen"/>herds leading is the SCRIPTURE. I confeſs the <hi>Scripture</hi> to be a ſurer guide then Reaſon, for the <hi>Authors</hi> ſake; and yet, by what ye heard even now, it works little with<g ref="char:EOLhyphen"/>out it, but yet ſurer for all that. The igno<g ref="char:EOLhyphen"/>rance of Scripture is a cauſe of erring. Ye <hi>erre,</hi> ſaith our Saviour,<note place="margin">Mat. 22.29</note> 
+               <hi>not knowing the Scrip<g ref="char:EOLhyphen"/>tures.</hi> And to keep us right in our way Gods <hi>Word is a lantern to our feet,<note place="margin">Pſal. 119.105.</note> and a light unto our paths.</hi> We cannot ſay too much of the ex<g ref="char:EOLhyphen"/>cellency and benefit of it. It is a perfect re<g ref="char:EOLhyphen"/>cord of all that concerns Heaven, or the way to it. It hath all the perfections that a <hi>law</hi> or rule can have to guide us; yet thoſe perfecti<g ref="char:EOLhyphen"/>ons are confin'd within the limits and nature of a law, to do no more then is proper for a law to do, which is very little without a <hi>Judge</hi> to apply it. Though the rule be ſufficiently ſtraight &amp; perfect, yet it meaſures nothing out of the hand of him that hath skill to uſe it.
+<pb n="22" facs="tcp:95371:13"/>Bring what controverſy you will to the laws, they pronounce nothing either for the <hi>Plain<g ref="char:EOLhyphen"/>tiff</hi> or <hi>Defendant.</hi> This is the true reaſon why, though all ſects pretend to Scripture, there is yet no end of controverſies, becauſe there is no common <hi>Judge</hi> to end them. And the reaſon why every ſect for all that ſeems to reſt ſatisfied, they are guided by the <hi>Scripture,</hi> is becauſe they carry their Judge a-long with them, themſelves.</p>
+            <p>So as if together with the Scriptures there be not a Shepherd too, or ſome as little to be truſted, our ſelves I mean, it cannot lead at all.<note place="margin">Heb. 4.12.</note> It is indeed a <hi>two-edged ſword,</hi> but cuts nothing, but in the hand of him that uſeth it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> A <hi>Third</hi> pretender to avoid the Shepherds is the SPIRIT. That without queſtion will lead us into all truth.<note place="margin">Joh. 16.13.</note> But for the manner of the <hi>Spirits</hi> leading, the Scripture points out two wayes, The one <hi>Divines</hi> call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the other may be call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i. e.</hi> as it led the Prophets of old, by revealing to them the truth and matter of the Propheſy, the object. And by this way it led all the Apoſtles, to whom the whole
+<pb n="23" facs="tcp:95371:13"/>doctrine of the Goſpel, and myſtery of ſal<g ref="char:EOLhyphen"/>vation by Chriſt was reveal'd.<note place="margin">2 Pet. 1.21.</note> And thus <hi>holy men of God ſpake as they were moved by the Holy Ghoſt.</hi> To this way of leading none can pretend, that doth not prove his commiſſion from God by a <hi>miracle,</hi> who ſends none of ſuch an errand that cannot make it appear ſome way, that he came from him. If the <hi>Enthuſiaſtick</hi> would have his dreams believed to be the dictates and revelations of the <hi>Spirit,</hi> let him ſhew his letters of Credence from Hea<g ref="char:EOLhyphen"/>ven ſeal'd with a <hi>miracle,</hi> and I ſhall not doubt to ſet him above all the Doctors and Shep<g ref="char:EOLhyphen"/>herds of the Church. Otherwiſe he may deceive himſelf by his ſpirit, he ſhall not deceive me.</p>
+            <p>The other way of the <hi>Spirits</hi> leading is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> not by <hi>revealing</hi> any thing to us, but by <hi>co-operating</hi> with us, by fortifying the ſoul and the faculties of it, to all ſuperna<g ref="char:EOLhyphen"/>tural actions, by aſſiſtance of grace to inlighten the underſtanding to comprehend divine truth, to inflame the affections with the love of it, to ſupport our endeavours in all diffi<g ref="char:EOLhyphen"/>culties and temptations. To this aſſiſtance of the Spirit all the faithful have a right. And though in this way the Spirit cannot deceive us, yet we may be deceived in it, becauſe it
+<pb n="24" facs="tcp:95371:14"/>never works but with us; if we fail in what we are to do, then that fails us.</p>
+            <p>And by this way not only private perſons, but <hi>publick Councels</hi> are governed. To whom the Spirit doth not reveal the matter of their Decrees <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but by way of <hi>co-operation</hi> aſſiſts their indeavours to find out the truth from the proper Topicks of it, the Scrip<g ref="char:EOLhyphen"/>ture and Antiquity; for ſo all the force of their decrees depends upon the reaſon and grounds upon which they are made. For if any Councel might pretend to that other way of revelation, ſure that firſt famous <hi>Apoſtolical</hi> Councel might, <hi>Act.</hi> 15. But that did not otherwiſe determine the matter in controverſy then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Acts 15.7.</note> 
+               <hi>v.</hi> 7. when there had been much debate and diſquiſition out of the Scriptures, were the decrees made and ſign'd accordingly. <hi>It ſeemed good to the Holy Ghoſt and to us.</hi>
+               <note place="margin">Verſe 28.</note> The Apoſtles and El<g ref="char:EOLhyphen"/>ders were in joynt commiſſion with the Spirit; the ſame Lord that ſent the Spirit, ſent the A<g ref="char:EOLhyphen"/>poſtles alſo, and therefore no contradiction to be led by the Spirit, and by the Shepherds too.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> THE <hi>fourth</hi> and laſt leader which is brought in to avoid the Shepherds, is
+<pb n="25" facs="tcp:95371:14"/>the CONSCIENCE. This is the <hi>Presbyterians</hi> ſtrongeſt fort againſt Obedience. If he can get his Conſcience about him, he thinks himſelf ſo ſafe that he may bid defiance to all Authority.</p>
+            <p>In the <hi>Commiſsion</hi> of leaders, I confeſs, as I ſaid, the Conſcience to be of the <hi>Quorum.</hi> We are to do nothing without it, and much leſs againſt it. But then we muſt be ſure we miſtake not ſomewhat elſe for the Conſcience. Every diſeaſe and diſtemper of the mind, cauſleſs ſcruple, ſlight perſwaſion, ground<g ref="char:EOLhyphen"/>leſs fear is not the Conſcience, againſt which we are bound not to act.</p>
+            <p>The tender <hi>Conſcience,</hi> for which ſo much favour is pleaded, may prove in ſome no bet<g ref="char:EOLhyphen"/>ter then a diſeaſe of the Soul, a ſpiritual <hi>Splene.</hi> For though it be good to be tender of offend<g ref="char:EOLhyphen"/>ing God in any thing where it proceeds from the good temper and conſtitution of the ſoul, which is the ſame conſtantly in all caſes, and is not affected or taken up for a purpoſe, as the ſturdy begger carries his arm in a ſtring, that it may be a Patent to beg and be idle.</p>
+            <p>You may know it certainly to be a diſeaſe if it comes upon us by fits and ſtarts, as to be <hi>tender</hi> of offending God when we obey men,
+<pb n="26" facs="tcp:95371:15"/>and <hi>not</hi> to be <hi>tender</hi> of offending God when we diſobey them. If they be not as tender of one ſide as of another, as I never find them to be, it is but a <hi>Paralitick</hi> Conſcience that is dead of one ſide. For tell him the Church commands it, he preſently ſhrinks and ſtartles at it; and well ſo, for poſſibly he may ſin againſt God. But tell him on the other ſide that God commands obedience to thoſe that rule over us, it moves him not at all, you may thruſt a needle into his ſide and he feels it not. It ſhews plainly the Conſcience hath a dead Palſy on that ſide.</p>
+            <p>But a right and ſound Conſcience againſt which certainly we ought not to act, is a con<g ref="char:EOLhyphen"/>ſtant and well governed judgment; for not to amuſe you as the manner is with frivolous diſtinctions and <hi>definitions</hi> of Conſcience, in this caſe the Conſcience is nothing but every mans <hi>private</hi> judgment; for he ought not to attempt the doing of any thing, till he hath framed this judgment to himſelf, that it is lawful for him to do it. Now ſeeing our private judgment hath ſo great power and influence as to interrupt the courſe of publick, it had need be a true and regular judgment. As firſt,</p>
+            <pb n="27" facs="tcp:95371:15"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> It muſt not be <hi>arbitrary,</hi> for that we think we have reaſon to decline in the publick Ma<g ref="char:EOLhyphen"/>giſtrate, to govern by Will and not by Law. Many a Conſcience if it were well examined, will prove to be nothing but will, not judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Every good judgment is upon a <hi>full</hi> hear<g ref="char:EOLhyphen"/>ing of the cauſe of both ſides, all evidences duly weighed and examined, then reſolves; this is a Conſcience againſt which we ought not to act, though poſſibly it might prove to be erroneous; yet for all that we muſt know that it doth not ſet us free from the guilt of diſobeying our Governors. And then this is all the benefit our Conſcience will do us in caſe of error, that it caſts us into a <hi>neceſsity</hi> of ſinning, by obeying againſt our ſelves, by diſ<g ref="char:EOLhyphen"/>obeying againſt our Governors. We ſhall do well therefore to take care, that we make not every ſlight perſwaſion, doubt or ſcruple, a Conſcience, truſting to be diſcharged of our obedience by that, which indeed binds it faſter upon us, for that is the very end and benefit for which is inſtituted the Paſtoral charge, that when we are ſo weak we can not ſafely truſt our ſelves, we may rely upon that: unleſs we think it a good plea, I am
+<pb n="28" facs="tcp:95371:16"/>blind and therefore I will <hi>not</hi> be led. I am weak and ſickly, and therefore I will <hi>not</hi> be rul'd by the Phyſitian.</p>
+            <p>Now to ſum up all, if not <hi>Reaſon,</hi> nor <hi>Scripture,</hi> nor the <hi>Spirit,</hi> nor <hi>Conſcience</hi> will diſcharge us of the duty we owe to the Church, in the name of God, let us not raſhly fling away ſo great a bleſſing, that in all our doubts and fears, for our quiet and ſecurity, we may have recourſe to the Shepherds and Biſhops of our Souls.</p>
+            <p>THis is the <hi>laſt</hi> point, the Shepherds Flock or the Biſhops <hi>Dioceſs:</hi> the Souls of men. And here we meet with another quar<g ref="char:EOLhyphen"/>rel from the <hi>Presbytery.</hi> That they may be ſure to ſpoil the Biſhops of all authority, they take away their Dioceſs, the cure of Souls, that they may be Biſhops <hi>ſine titulo;</hi> for Bi<g ref="char:EOLhyphen"/>ſhops they are not either of our bodies or eſtates. And why not of our Souls? Chriſt indeed the great Shepherd that purchaſed them may rule them, but they are too preci<g ref="char:EOLhyphen"/>ous for any other Shepherds to Lord over: which they ſay is done by binding the Souls with <hi>Church-laws</hi> and cenſures, which Chriſt hath ſet at liberty. And thus they ſet up
+<pb n="29" facs="tcp:95371:16"/>Chriſt <hi>againſt</hi> himſelf, and Chriſtian liberty againſt Chriſtian duty.</p>
+            <p>S. <hi>Paul,</hi> I confeſs doth earneſtly preſs this point of liberty,<note place="margin">Gal. 5.1.</note> 
+               <hi>Stand faſt in the liberty where<g ref="char:EOLhyphen"/>with Chriſt hath made us free, and be not intangled again with the yoak of bondage.</hi> But what liberty? It is not ſimply from obedience either to men or Laws, for that were deſtructive to Humane Society as well as Religion. What then is it? It is no more then that Chriſtians have a liberty <hi>not</hi> to be Jews. I dare be bold to ſay, this is all that can be made of it. And the reaſon why S. <hi>Paul</hi> did ſo earneſtly preſs it is evident. The Jews that were willing enough to entertain the doctrine of Chriſt, yet were not ſo eaſily drawn to part with thoſe Rites and Ceremonies, to which they had been ſo long accuſtomed, and upon ſo good authori<g ref="char:EOLhyphen"/>ty. To humour theſe <hi>Simon Magus</hi> and his Diſciples ſet up a medly of both Religions, that they might be <hi>Chriſts</hi> Diſciples and <hi>Moſes</hi> too. Againſt this doctrine S. <hi>Paul</hi> ſets him<g ref="char:EOLhyphen"/>ſelf, eſpecially in his Epiſtles to the <hi>Romans</hi> and <hi>Galatians.</hi> If they have taken upon them to be Chriſtians let them ſtand to that, and not look back again to the fleſh <hi>having begun in the Spirit.</hi>
+               <note place="margin">Gal. 3.3.</note> For behold, I <hi>Paul ſay unto you, if
+<pb n="30" facs="tcp:95371:17"/>ye be circumciſed,</hi>
+               <note place="margin">Gal. 5.2.</note> 
+               <hi>Chriſt ſhall profit you nothing.</hi> To claim from hence liberty from any other men or laws then the Jews, they might as well ſay Chriſt hath here given them liberty not to be Chriſtians. For Chriſtians we cannot be, unleſs we obey the Laws and Government of thoſe that Chriſt hath ſet over us. To uſe our liberty in this caſe our Apoſtle in the 16. <hi>verſe</hi> of this <hi>Chap.</hi> hath adjudged it to be no better then a <hi>cloak of malitiouſneſs.</hi>
+               <note place="margin">1 Pet. 2.</note>
+            </p>
+            <p>And for thoſe Conſciences which are ſo tender that every Church-law pinches and galls them, they do without reluctance <hi>bind</hi> their own Souls. Every private man can do that which we will not indure the Church ſhould do. He that promiſeth any thing is bound in conſcience to perform it, though before he took that bond upon him, he had his Chriſtian li<g ref="char:EOLhyphen"/>berty not to do it. Before <hi>Ananias</hi> promiſed to ſell his eſtate, and give it to the Church, he was free, S. <hi>Peter</hi> told him ſo; <hi>Was it not in thine own power?</hi>
+               <note place="margin">Act. 5.4.</note> Yet after that it was not in his power to make uſe of that liberty; for his conſcience was bound. And if a promiſe may do this, much more a vow or an oath. <hi>If a man vow a vow unto the Lord,<note place="margin">Num. 30.2.</note> or ſwear an oath to bind his Soul,</hi> Numb. 30.2. (the Soul
+<pb n="31" facs="tcp:95371:17"/>may be bound) <hi>he ſhall not break his word, he ſhall do according to all that proceedeth out of his mouth.</hi>
+            </p>
+            <p>If a man ſhould be ſo unreaſonable as to ſay, his conſcience may be bound by himſelf, but not by any elſe. Do not they themſelves, as their manner is in their Sermons, <hi>bind</hi> over their hearers to anſwer for them at the day of judgment? and what a heap and load of Ser<g ref="char:EOLhyphen"/>mons muſt then ly upon their Conſciences? though the truth is, they bind none but them<g ref="char:EOLhyphen"/>ſelves, and that to repent for corrupting Gods Word, and miſleading the people into Facti<g ref="char:EOLhyphen"/>on, Sedition and Diſobedience, to ſay no worſe.</p>
+            <p>Let us ſeriouſly conſider and <hi>compare</hi> that which they would avoid, with that which they indeavour to ſet up in the room of it. They would avoid <hi>firſt</hi> the power of the Church in her Laws and Cenſures as a domi<g ref="char:EOLhyphen"/>neering over mens conſciences, and a lording it over Gods inheritance. But if they look upon it with an impartial eye, they ſhall find all contrary, nothing but moderation; as firſt in the very ſtile of the Church, that there might be no <hi>harſh</hi> words. The laws by which they govern, are not call'd laws but <hi>canons,</hi>
+               <pb n="32" facs="tcp:95371:18"/>that is, rules to guide, rather then force. 2. Church-puniſhments are not call'd <hi>poenae</hi> but <hi>cenſurae,</hi> not that they are ſweetned with good words only, but with real benefit; for they are not as temporal puniſhments <hi>ad vindictam</hi> but <hi>ad diſciplinam,</hi> for the amendment, not revenge of ſin. 3. The temporal judge, if not So<g ref="char:EOLhyphen"/>veraign, <hi>cannot</hi> pardon the <hi>felony</hi> though he would. The Eccleſiaſtical judge cannot <hi>but pardon</hi> though he would not. <hi>Eccleſia non claudit gremium redeuntibus,</hi> is a rule in the Court Chriſtian. The Church refuſeth none that will return and repent. There is <hi>no</hi> ſuch rule in ſecular Courts, that the thief or murtherer upon repentance may be pardoned. And by <hi>Church-Canons</hi> in elder times it was deemed an irregularity to be preſent at a ſentence of blood. Not that it is a crime to be ſo, but as the Canon ſpeaks, <hi>propter defectum lenitatis,</hi> that nothing in them might ſeem to be of harſhneſs or cruelty. The higheſt and moſt terrible of all Church-cenſures, of which men ſeem to be moſt impatient, how harmleſs and gentle is it, <hi>Excommunication?</hi> If he be not guilty, <hi>clavibus errantibus,</hi> he is never the worſe for it; the bonds fall off themſelves; if he
+<pb n="33" facs="tcp:95371:18"/>be guilty, he may be the better for it if he will. When S. <hi>Paul</hi> judged the inceſtuous <hi>Corinthian</hi> to be delivered unto Satan,<note place="margin">1 Cor. 1.3.</note> and this was thought to be Excommunication and ſome<g ref="char:EOLhyphen"/>what more; yet this was for his benefit, for <hi>the deſtruction of the fleſh,</hi>
+               <note place="margin">Verſe 5.</note> 
+               <hi>that the ſpirit might be ſaved in the day of our. Lord Jeſus,</hi> verſe 5. What is there in all this that ſhould fright us from our obedience?</p>
+            <p>But now let us ſee what on the other ſide they would ſet up in the room of this. A <hi>li<g ref="char:EOLhyphen"/>berty</hi> of <hi>Conſcience,</hi> forſooth, from the fetters of laws, that they might not ſerve God in bonds like ſlaves, but freely. That they may preach what they will, and as long as they will. That they may pray how they will, and faſt when they will. That they may ſtand and kneel where and when they will. Indeed a true arbitrary <hi>Will-worſhip;</hi> inſtead of a lawful or<g ref="char:EOLhyphen"/>derly ſerving of God, a confuſion of all.</p>
+            <p>But they hold themſelves wrong'd to be charged with will-worſhip, for that they do all by <hi>Reaſon</hi> and the <hi>Scripture</hi> and the <hi>Spirit.</hi> Yet for all that pretenſe they are ſtill under that charge; becauſe all theſe are at their own wills; what ſectary is there that with a wet finger cannot, nay doth not challenge Rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="34" facs="tcp:95371:19"/>the Scripture, the Spirit and Conſci<g ref="char:EOLhyphen"/>ence to be for him, when <hi>he will?</hi>
+            </p>
+            <p>And why do they allow theſe to guide them and not the Shepherds, but becauſe theſe are at their beck and <hi>will,</hi> but the Shep<g ref="char:EOLhyphen"/>herds are not? And therefore becauſe they cannot command them, they would be rid of them, that ſo they might without control, Lord it as they will.</p>
+            <p>But I ſhall trouble you no longer with our <hi>Shepherds</hi> or their <hi>Adverſaries,</hi> but for a con<g ref="char:EOLhyphen"/>cluſion and caution reflect upon our ſelves: for though Chriſt hath committed the cure of our ſouls to others, he hath not taken it from our ſelves. The Shepherds were gi<g ref="char:EOLhyphen"/>ven for a help to eaſe us in it, not to eaſe us of it. Every one may and muſt be by a con<g ref="char:EOLhyphen"/>current care a Shepherd and Biſhop to him<g ref="char:EOLhyphen"/>ſelf; and then here I ſhall take leave only to put you in mind of your Dioceſs, your <hi>Souls,</hi> that ye be not our Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in this Epiſtle,<note place="margin">1 Pet. 4.15</note> that we miſtake not our Cure; for there be other things we have as great af<g ref="char:EOLhyphen"/>fection for as our Souls, I wiſh we had not. The rich glutton in the Goſpel, when he ſaid to his Soul,<note place="margin">Luk. 12.19.</note> 
+               <hi>Soul take thine eaſe, thou haſt much goods laid up for thee, &amp;c.</hi> ſure he miſtook his
+<pb n="35" facs="tcp:95371:19"/>body for his Soul, for there was nothing in his barns that could feed that. This is no greater an error and miſtake then we dayly commit our ſelves; to go no farther then this preſent time. <hi>Lent,</hi> if there were any thing left of it among us but the name, charges the ſoul by prayer and faſting to fit and pre<g ref="char:EOLhyphen"/>pare it ſelf to meet our Lord at the Reſurrecti<g ref="char:EOLhyphen"/>on. When we plead our conſtitution and health againſt it, it ſhews we are no ill <hi>Curates</hi> of our bodies, whatſoever we be of our ſouls.</p>
+            <p>Yea that which hath a better title to be our ſouls will not lie within this Cure; the <hi>intel<g ref="char:EOLhyphen"/>lectual</hi> and principal part of the ſoul, and the inriching it with the knowledge of Arts and Sciences, ſpeculative and practick, by which all our affairs and the greateſt of all the affairs of the world are governed, which employ the ſouls beſt vertues and indowments, and for which none but great and noble ſouls are fit. Yet this is not the ſoul for which Chriſt died, and is to be our Cure. For when we have gain<g ref="char:EOLhyphen"/>ed this and all the world beſides we may <hi>loſe our ſouls.</hi> The Holy Ghoſt takes no other notice of theſe then as if they were but bodies, and
+<pb n="36" facs="tcp:95371:20"/>indeed for their continuance they are no bet<g ref="char:EOLhyphen"/>ter, for they periſh with our bodies; the great<g ref="char:EOLhyphen"/>eſt <hi>wits</hi> and wiſeſt <hi>conduct</hi> lie buried in their duſt with them, nor will they appear again for us in that world where the ſoul is moſt concern'd. In a word, the Scripture owns no loſing or ſaving to the ſoul but in that condition which muſt live and continue for ever. Nothing is worthy that name that is not immortal. Yet I muſt recal my ſelf when I ſaid theſe mortal ſouls, that is, in their temporal condition, are not with<g ref="char:EOLhyphen"/>in our Cure; to get, it may be not, but to uſe they are. The meaneſt of them all our Saviour expreſly commits to our charge,<note place="margin">Luk. 16.9.</note> 
+               <hi>Make you friends of unrighteour Mam<g ref="char:EOLhyphen"/>mon, that they may receive you into everlaſting habitations.</hi> Things everlaſting are proper for the ſoul. And if you ſhall make you friends likewiſe of your <hi>honour, powers,</hi> and <hi>knowledge,</hi> for the advantage of Gods honour and ſervice, certainly they will do as much for you as <hi>Mammon</hi> can. For thus theſe mortals do put on immortality, theſe cor<g ref="char:EOLhyphen"/>ruptibles do put on incorruption.<note place="margin">1 Cor. 15.54.</note> You may in this ſenſe make a ſoul out of your
+<pb n="37" facs="tcp:95371:20"/>bodies by the chaſt, ſober and temperate uſe of them. And ſo our bodies and all elſe become the proper Cure of our ſouls, and in the diſcharge of that care, we may expect the bleſſing of good Shepherds as well as that of good Sheep.<note place="margin">1 Pet. 5.4.</note> And <hi>when the chief Shepherd ſhall appear, ye ſhall receive a crown of Glory that fadeth not away.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
